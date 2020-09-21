@@ -36,10 +36,13 @@
 			<version>2.13.3</version>
 		</dependency>
 
+		<!-- <dependency> <groupId>io.cucumber</groupId> <artifactId>cucumber-testng</artifactId> 
+			<version>6.5.0</version> </dependency> -->
 		<dependency>
-			<groupId>io.cucumber</groupId>
-			<artifactId>cucumber-testng</artifactId>
-			<version>6.5.0</version>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.3.0</version>
+			<!-- <scope>test</scope> -->
 		</dependency>
 
 		<dependency>
@@ -65,5 +68,5 @@
 	</dependencies>
 
 
-
 </project>
+

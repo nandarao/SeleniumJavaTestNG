@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="36051" started-at="2020-09-20T10:35:44Z" finished-at="2020-09-20T10:36:20Z">
+  <suite name="Default suite" duration-ms="28258" started-at="2020-09-21T06:53:14Z" finished-at="2020-09-21T06:53:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="36051" started-at="2020-09-20T10:35:44Z" finished-at="2020-09-20T10:36:20Z">
+    <test name="Default test" duration-ms="28258" started-at="2020-09-21T06:53:14Z" finished-at="2020-09-21T06:53:42Z">
       <class name="com.testCases.Test_001_Login">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@4b0b0854]" name="beforeTest" is-config="true" duration-ms="9241" started-at="2020-09-20T16:05:44Z" finished-at="2020-09-20T16:05:53Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@59474f18]" name="beforeTest" is-config="true" duration-ms="8684" started-at="2020-09-21T12:23:14Z" finished-at="2020-09-21T12:23:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkLoginTilte()[pri:0, instance:com.testCases.Test_001_Login@4b0b0854]" name="checkLoginTilte" duration-ms="118" started-at="2020-09-20T16:05:53Z" finished-at="2020-09-20T16:05:53Z">
+        <test-method status="PASS" signature="checkLoginTilte()[pri:0, instance:com.testCases.Test_001_Login@59474f18]" name="checkLoginTilte" duration-ms="95" started-at="2020-09-21T12:23:23Z" finished-at="2020-09-21T12:23:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkLoginTilte -->
-        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@4b0b0854]" name="afterMathod" is-config="true" duration-ms="2518" started-at="2020-09-20T16:05:53Z" finished-at="2020-09-20T16:05:55Z">
+        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@59474f18]" name="afterMathod" is-config="true" duration-ms="1981" started-at="2020-09-21T12:23:23Z" finished-at="2020-09-21T12:23:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMathod -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@4b0b0854]" name="beforeTest" is-config="true" duration-ms="8858" started-at="2020-09-20T16:05:55Z" finished-at="2020-09-20T16:06:04Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@59474f18]" name="beforeTest" is-config="true" duration-ms="7276" started-at="2020-09-21T12:23:25Z" finished-at="2020-09-21T12:23:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkLoginPage()[pri:1, instance:com.testCases.Test_001_Login@4b0b0854]" name="checkLoginPage" duration-ms="11864" started-at="2020-09-20T16:06:04Z" finished-at="2020-09-20T16:06:16Z">
+        <test-method status="PASS" signature="checkLoginPage()[pri:1, instance:com.testCases.Test_001_Login@59474f18]" name="checkLoginPage" duration-ms="8129" started-at="2020-09-21T12:23:32Z" finished-at="2020-09-21T12:23:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkLoginPage -->
-        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@4b0b0854]" name="afterMathod" is-config="true" duration-ms="3442" started-at="2020-09-20T16:06:16Z" finished-at="2020-09-20T16:06:20Z">
+        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@59474f18]" name="afterMathod" is-config="true" duration-ms="2081" started-at="2020-09-21T12:23:40Z" finished-at="2020-09-21T12:23:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMathod -->

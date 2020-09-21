@@ -1,10 +1,7 @@
 package com.DelatePackage;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
-
 import com.DelatePackage.UseWebDriverElements;
-import com.DelatePackage.extOfInterface;
 
 interface InterTest{
 	
