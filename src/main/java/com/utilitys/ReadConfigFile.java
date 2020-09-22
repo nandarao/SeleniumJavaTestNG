@@ -40,6 +40,16 @@ public class ReadConfigFile {
 		}
 	}
 
+	public String getReportFoldarPath() {
+		String path = this.properties.getProperty("reportFoldarPath");
+
+		if (path != null) {
+			return path;
+		} else {
+			throw new RuntimeException("reportFoldarPath is not specified in Configuration.properties file");
+		}
+	}
+
 	public String getTestDataPath() {
 		String path = this.properties.getProperty("testDataFilePath");
 
@@ -85,7 +95,7 @@ public class ReadConfigFile {
 		if (path != null) {
 			return Integer.parseInt(path);
 		} else {
-			
+
 			throw new RuntimeException("implicitlyWait is not specified in Configuration.properties file");
 		}
 	}
@@ -101,6 +111,5 @@ public class ReadConfigFile {
 		}
 
 	}
-
 
 }

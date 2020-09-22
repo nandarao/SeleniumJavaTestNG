@@ -53,7 +53,7 @@ public class Test_001_Login {
 		this.readConfigFile = new ReadConfigFile();
 		this.readExcelData = new ReadWriteExcelData(this.readConfigFile.getTestDataPath());
 		log.startTestCase(Test_001_Login.class.getName());
-		spark = new ExtentSparkReporter(projectFoldar+this.readConfigFile.getScreenshotPath());
+		spark = new ExtentSparkReporter(projectFoldar+this.readConfigFile.getReportFoldarPath()+"extent_report.html");
 		extent.attachReporter(this.spark);
 		
 
