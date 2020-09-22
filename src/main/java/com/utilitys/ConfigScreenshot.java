@@ -13,22 +13,21 @@ import org.openqa.selenium.WebDriver;
 import com.reusableFunations.Log;
 
 public class ConfigScreenshot {
-	
-	
+
 	private ReadConfigFile readConfigFile;
 	private String foldarPath; // =".\\src\\test\\java\\screenshots\\";
 	private WebDriver driver;
 	private String dateFormat;
 	static Log log = new Log(ConfigScreenshot.class.getName());
-	
-	
+	public static File foldarPathLoc = null;
+	public static String ScreenshotPathName = null;
 
 	public ConfigScreenshot(WebDriver driver) {
 		this.driver = driver;
 		this.readConfigFile = new ReadConfigFile();
 	}
 
-	public void takeScreenshot(String screenshotName) {
+	public String takeScreenshot(String screenshotName) {
 
 		if (driver == null || readConfigFile == null) {
 
@@ -44,10 +43,12 @@ public class ConfigScreenshot {
 		this.dateFormat = new SimpleDateFormat("_yyy_MM_dd__hh_mm_ss").format(new Date());
 		this.foldarPath = this.readConfigFile.getScreenshotPath();
 		File screenshot = ((TakesScreenshot) this.driver).getScreenshotAs(OutputType.FILE);
-		File foldarPathLoc = new File(this.foldarPath + screenshotName + this.dateFormat + ".png");
+		foldarPathLoc = new File(this.foldarPath + screenshotName + this.dateFormat + ".png");
 		if (screenshot != null && foldarPathLoc != null && this.foldarPath != null) {
 			try {
 				FileUtils.copyFile(screenshot, foldarPathLoc);
+				return ScreenshotPathName = foldarPathLoc.toString();
+
 			} catch (IOException e) {
 				e.printStackTrace();
 				System.exit(1);
