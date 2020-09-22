@@ -48,7 +48,8 @@ public class ConfigScreenshot {
 		if (screenshot != null && foldarPathLoc != null && this.foldarPath != null) {
 			try {
 				FileUtils.copyFile(screenshot, foldarPathLoc);
-				return ScreenshotPathName = foldarPathLoc.toString();
+				ScreenshotPathName = screenshotName + this.dateFormat + ".png";
+				return ScreenshotPathName ;//= this.foldarPath + screenshotName + this.dateFormat + ".png";
 
 			} catch (IOException e) {
 				e.printStackTrace();
