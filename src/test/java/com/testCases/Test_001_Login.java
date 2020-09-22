@@ -53,7 +53,7 @@ public class Test_001_Login {
 		this.readConfigFile = new ReadConfigFile();
 		this.readExcelData = new ReadWriteExcelData(this.readConfigFile.getTestDataPath());
 		log.startTestCase(Test_001_Login.class.getName());
-		spark = new ExtentSparkReporter(this.readConfigFile.getScreenshotPath());
+		spark = new ExtentSparkReporter(projectFoldar+this.readConfigFile.getScreenshotPath());
 		extent.attachReporter(this.spark);
 		
 
@@ -92,7 +92,7 @@ public class Test_001_Login {
 			AssertJUnit.assertEquals(useWebDriverElements.useWebElement(null, null, Action.getTitle, null,
 					"Login page title matching with expected"), "Your store. Login");
 			logger.log(Status.FAIL, "Login page title matching with expected");
-			logger.log(Status.INFO, "Login page title matching with expected", MediaEntityBuilder.createScreenCaptureFromPath( projectFoldar+this.screenShot.takeScreenshot("Pass_loginPage")).build());
+			logger.log(Status.INFO, "Login page title matching with expected", MediaEntityBuilder.createScreenCaptureFromPath( this.screenShot.takeScreenshot("Pass_loginPage123")).build());
 			//this.screenShot.takeScreenshot("Pass_loginPage");
 			
 		}

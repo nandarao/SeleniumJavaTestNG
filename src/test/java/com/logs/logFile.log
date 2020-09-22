@@ -1,0 +1,172 @@
+[INFO ] 2020-09-22 16:42:13.796 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:42:13.803 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:42:13.803 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:42:13.803 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:42:13.803 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:42:18.878 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:42:19.450 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:42:26.224 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:46:17.762 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:46:17.768 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:46:17.768 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:46:17.768 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:46:17.768 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:46:23.506 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:46:23.531 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:46:28.916 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:47:42.513 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:47:42.518 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:47:42.518 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:47:42.518 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:47:42.519 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:47:48.031 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:47:48.089 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:47:53.490 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:47:53.606 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:47:53.606 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:47:53.606 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:47:53.606 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:47:53.606 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:47:58.531 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:47:58.531 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:47:58.538 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:47:58.538 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:47:58.538 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:48:02.419 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:48:02.899 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:48:06.135 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID test-box cleared
+[INFO ] 2020-09-22 16:48:06.216 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID entered
+[INFO ] 2020-09-22 16:48:08.291 [main] com.reusableFunations.UseWebElement -   MSG  :  Password test-box cleared
+[INFO ] 2020-09-22 16:48:08.326 [main] com.reusableFunations.UseWebElement -   MSG  :  Password entered
+[INFO ] 2020-09-22 16:48:15.891 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Login button
+[INFO ] 2020-09-22 16:48:16.790 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Logout button
+[INFO ] 2020-09-22 16:48:16.792 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:48:16.792 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:48:16.792 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:48:16.793 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:48:16.793 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:48:20.015 [main] com.testCases.Test_001_Login -   MSG  :  ******************************************************************************
+[INFO ] 2020-09-22 16:49:44.837 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:49:44.841 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:49:44.841 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:49:44.842 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:49:44.842 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:49:49.300 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:49:49.314 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:49:55.254 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:49:55.269 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:49:55.270 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:49:55.270 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:49:55.270 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:49:55.270 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:49:58.113 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:49:58.114 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:49:58.114 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:49:58.114 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:49:58.114 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:50:02.628 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:50:02.643 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:50:05.258 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID test-box cleared
+[INFO ] 2020-09-22 16:50:05.352 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID entered
+[INFO ] 2020-09-22 16:50:07.432 [main] com.reusableFunations.UseWebElement -   MSG  :  Password test-box cleared
+[INFO ] 2020-09-22 16:50:07.469 [main] com.reusableFunations.UseWebElement -   MSG  :  Password entered
+[INFO ] 2020-09-22 16:50:11.604 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Login button
+[INFO ] 2020-09-22 16:50:15.233 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Logout button
+[INFO ] 2020-09-22 16:50:15.237 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:50:15.238 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:50:15.238 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:50:15.238 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:50:15.238 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:50:17.975 [main] com.testCases.Test_001_Login -   MSG  :  ******************************************************************************
+[INFO ] 2020-09-22 16:50:55.806 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:50:55.812 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:50:55.812 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:50:55.812 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:50:55.812 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:51:01.333 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:51:01.364 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:51:06.059 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:51:06.083 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:51:06.083 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:06.083 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:06.083 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:06.083 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:10.144 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:51:10.144 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:51:10.144 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:51:10.144 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:51:10.145 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:51:14.451 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:51:14.457 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:51:22.811 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID test-box cleared
+[INFO ] 2020-09-22 16:51:22.903 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID entered
+[INFO ] 2020-09-22 16:51:24.969 [main] com.reusableFunations.UseWebElement -   MSG  :  Password test-box cleared
+[INFO ] 2020-09-22 16:51:24.996 [main] com.reusableFunations.UseWebElement -   MSG  :  Password entered
+[INFO ] 2020-09-22 16:51:31.822 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Login button
+[INFO ] 2020-09-22 16:51:33.756 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Logout button
+[INFO ] 2020-09-22 16:51:33.758 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:51:33.758 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:33.758 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:33.758 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:33.758 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:51:36.985 [main] com.testCases.Test_001_Login -   MSG  :  ******************************************************************************
+[INFO ] 2020-09-22 16:52:55.295 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:52:55.300 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:52:55.300 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:52:55.300 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:52:55.300 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:53:02.547 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:53:02.559 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:53:08.845 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:53:47.630 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:53:47.634 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:53:47.634 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:53:47.634 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:53:47.634 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:53:52.601 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:53:52.618 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:53:57.128 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:53:57.242 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:53:57.242 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:53:57.242 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:53:57.242 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:53:57.242 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:54:00.076 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:00.076 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:00.076 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:54:00.077 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:00.077 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:03.459 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:54:03.473 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:54:51.387 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:51.392 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:51.392 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:54:51.392 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:51.392 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:54:57.367 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:54:57.382 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:55:01.132 [main] com.reusableFunations.MethodsImplementation -   MSG  :  Login page title matching with expected
+[INFO ] 2020-09-22 16:55:01.289 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:55:01.289 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:01.289 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:01.289 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:01.289 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:04.217 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:55:04.217 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:55:04.218 [main] com.testCases.Test_001_Login - $$$$$$$$$$$$$$$$$$$$$$$         com.testCases.Test_001_Login          $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-09-22 16:55:04.218 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:55:04.218 [main] com.testCases.Test_001_Login - ****************************************************************************************
+[INFO ] 2020-09-22 16:55:08.061 [main] com.testCases.Test_001_Login -   MSG  :  FireFox Browser Initiated
+[INFO ] 2020-09-22 16:55:08.077 [main] com.reusableFunations.MethodsImplementation -   MSG  :  URL entered
+[INFO ] 2020-09-22 16:55:13.107 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID test-box cleared
+[INFO ] 2020-09-22 16:55:13.200 [main] com.reusableFunations.UseWebElement -   MSG  :  UserID entered
+[INFO ] 2020-09-22 16:55:15.285 [main] com.reusableFunations.UseWebElement -   MSG  :  Password test-box cleared
+[INFO ] 2020-09-22 16:55:15.311 [main] com.reusableFunations.UseWebElement -   MSG  :  Password entered
+[INFO ] 2020-09-22 16:55:22.644 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Login button
+[INFO ] 2020-09-22 16:55:24.711 [main] com.reusableFunations.UseWebElement -   MSG  :  Click on Logout button
+[INFO ] 2020-09-22 16:55:24.712 [main] com.testCases.Test_001_Login - XXXXXXXXXXXXXXXXXXXXXXX           -E---N---D-            XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-09-22 16:55:24.712 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:24.712 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:24.712 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:24.712 [main] com.testCases.Test_001_Login - X
+[INFO ] 2020-09-22 16:55:27.064 [main] com.testCases.Test_001_Login -   MSG  :  ******************************************************************************

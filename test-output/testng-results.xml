@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="26745" started-at="2020-09-22T08:57:12Z" finished-at="2020-09-22T08:57:38Z">
+  <suite name="Default suite" duration-ms="36082" started-at="2020-09-22T11:24:50Z" finished-at="2020-09-22T11:25:27Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="26745" started-at="2020-09-22T08:57:12Z" finished-at="2020-09-22T08:57:38Z">
+    <test name="Default test" duration-ms="36082" started-at="2020-09-22T11:24:50Z" finished-at="2020-09-22T11:25:27Z">
       <class name="com.testCases.Test_001_Login">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="beforeTest" is-config="true" duration-ms="8022" started-at="2020-09-22T14:27:12Z" finished-at="2020-09-22T14:27:20Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="beforeTest" is-config="true" duration-ms="10125" started-at="2020-09-22T16:54:50Z" finished-at="2020-09-22T16:55:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkLoginTilte()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="checkLoginTilte" duration-ms="96" started-at="2020-09-22T14:27:20Z" finished-at="2020-09-22T14:27:20Z">
+        <test-method status="PASS" signature="checkLoginTilte()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="checkLoginTilte" duration-ms="177" started-at="2020-09-22T16:55:01Z" finished-at="2020-09-22T16:55:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkLoginTilte -->
-        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="afterMathod" is-config="true" duration-ms="2195" started-at="2020-09-22T14:27:20Z" finished-at="2020-09-22T14:27:22Z">
+        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="afterMathod" is-config="true" duration-ms="2903" started-at="2020-09-22T16:55:01Z" finished-at="2020-09-22T16:55:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMathod -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="beforeTest" is-config="true" duration-ms="6156" started-at="2020-09-22T14:27:22Z" finished-at="2020-09-22T14:27:28Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="beforeTest" is-config="true" duration-ms="8853" started-at="2020-09-22T16:55:04Z" finished-at="2020-09-22T16:55:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="checkLoginPage()[pri:1, instance:com.testCases.Test_001_Login@3541cb24]" name="checkLoginPage" duration-ms="8247" started-at="2020-09-22T14:27:28Z" finished-at="2020-09-22T14:27:36Z">
+        <test-method status="PASS" signature="checkLoginPage()[pri:1, instance:com.testCases.Test_001_Login@3541cb24]" name="checkLoginPage" duration-ms="11666" started-at="2020-09-22T16:55:13Z" finished-at="2020-09-22T16:55:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkLoginPage -->
-        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="afterMathod" is-config="true" duration-ms="2018" started-at="2020-09-22T14:27:36Z" finished-at="2020-09-22T14:27:38Z">
+        <test-method status="PASS" signature="afterMathod()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="afterMathod" is-config="true" duration-ms="2352" started-at="2020-09-22T16:55:24Z" finished-at="2020-09-22T16:55:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMathod -->
-        <test-method status="PASS" signature="aterSuite()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="aterSuite" is-config="true" duration-ms="1" started-at="2020-09-22T14:27:38Z" finished-at="2020-09-22T14:27:38Z">
+        <test-method status="PASS" signature="aterSuite()[pri:0, instance:com.testCases.Test_001_Login@3541cb24]" name="aterSuite" is-config="true" duration-ms="0" started-at="2020-09-22T16:55:27Z" finished-at="2020-09-22T16:55:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- aterSuite -->

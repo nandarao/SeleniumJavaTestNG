@@ -21,6 +21,7 @@ public class ConfigScreenshot {
 	static Log log = new Log(ConfigScreenshot.class.getName());
 	public static File foldarPathLoc = null;
 	public static String ScreenshotPathName = null;
+	String projectFoldar =System.getProperty("user.dir");
 
 	public ConfigScreenshot(WebDriver driver) {
 		this.driver = driver;
@@ -43,7 +44,7 @@ public class ConfigScreenshot {
 		this.dateFormat = new SimpleDateFormat("_yyy_MM_dd__hh_mm_ss").format(new Date());
 		this.foldarPath = this.readConfigFile.getScreenshotPath();
 		File screenshot = ((TakesScreenshot) this.driver).getScreenshotAs(OutputType.FILE);
-		foldarPathLoc = new File(this.foldarPath + screenshotName + this.dateFormat + ".png");
+		foldarPathLoc = new File(projectFoldar+this.foldarPath + screenshotName + this.dateFormat + ".png");
 		if (screenshot != null && foldarPathLoc != null && this.foldarPath != null) {
 			try {
 				FileUtils.copyFile(screenshot, foldarPathLoc);
