@@ -30,6 +30,16 @@ public class ReadConfigFile {
 
 	}
 
+	public String getReportScreenShotFoldarPath() {
+		String path = this.properties.getProperty("reportScreenShotFoldarPath");
+
+		if (path != null) {
+			return path;
+		} else {
+			throw new RuntimeException("reportScreenShotFoldarPath is not specified in Configuration.properties file");
+		}
+	}
+	
 	public String getScreenshotPath() {
 		String path = this.properties.getProperty("screenShotFoldarPath");
 
